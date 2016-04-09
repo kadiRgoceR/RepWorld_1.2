@@ -1,3 +1,2 @@
-cat("yes we can self-reproduce")
+cat("yes we can self-reproduce: var 2")
 
-change
